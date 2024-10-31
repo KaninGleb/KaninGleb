@@ -1,2 +1,2 @@
 [![Codwears badge](https://www.codewars.com/users/KaninGleb/badges/large)](https://www.codewars.com/users/KaninGleb)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=450)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaninGleb&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=450)](https://git.io/streak-stats)

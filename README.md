@@ -4,8 +4,8 @@
 <!-- Profile views -->
 <img src="https://komarev.com/ghpvc/?username=KaninGleb&style=flat-square&color=blue" alt="Profile Views"/>
 
-<div style="border: 2px solid #fe428e; border-radius: 10px; padding: 10px; display: inline-block;">
-    <img src="https://komarev.com/ghpvc/?username=KaninGleb&style=flat-square&color=fe428e" alt="Profile Views" style="border-radius: 10px; width: 175px; height: auto;"/>
+<div style="border: 2px solid #fe428e; padding: 50px; display: inline-block;">
+    <img src="https://komarev.com/ghpvc/?username=KaninGleb&style=flat-square&color=fe428e" alt="Profile Views" style="border-radius: 10px; width: 160px; height: auto;"/>
 </div>
 
 

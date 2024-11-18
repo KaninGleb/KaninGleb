@@ -6,6 +6,16 @@
     <img src="https://komarev.com/ghpvc/?username=KaninGleb&abbreviated=true&style=for-the-badge&color=fe428e" alt="Profile Views" style="border-radius: 10px; width: 160px; height: auto;"/>
 </div>
 
+<div id="profile-views-count">Loading...</div>
+
+<script>
+  fetch('https://api.github.com/users/KaninGleb')
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('profile-views-count').textContent = data.public_repos;
+    });
+</script>
+
 <a href="https://github.com/DenverCoderl "><img alt="views" title="Github views" src=" https://freshidea.com/jonah/app/ghpvc/?label=Views#3 "/></a>
 <!-- GitHub stats with streak-->
 ## :fire: My Stats:

@@ -4,7 +4,7 @@
 <!-- Profile views -->
 <img src="https://komarev.com/ghpvc/?username=KaninGleb&style=flat-square&color=blue" alt="Profile Views"/>
 
-<div style="border: 2px solid green; border-radius: 10px; padding: 10px; display: inline-block;">
+<div style="border: 2px solid pink; border-radius: 10px; padding: 10px; display: inline-block;">
     <img src="https://komarev.com/ghpvc/?username=KaninGleb&style=flat-square&color=green" alt="Profile Views" style="border-radius: 10px; width: 150px; height: auto;"/>
 </div>
 

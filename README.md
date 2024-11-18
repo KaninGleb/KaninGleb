@@ -4,6 +4,10 @@
 <!-- Profile views -->
 <img src="https://komarev.com/ghpvc/?username=KaninGleb&style=flat-square&color=green" alt="Profile Views"/>
 
+<div style="border: 2px solid green; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="https://komarev.com/ghpvc/?username=KaninGleb&style=flat-square&color=green" alt="Profile Views" style="width: 150px; height: auto;"/>
+</div>
+
 ## :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaninGleb&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 

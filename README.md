@@ -1,5 +1,3 @@
-[![Codwears badge](https://www.codewars.com/users/KaninGleb/badges/large)](https://www.codewars.com/users/KaninGleb)
-<img src="https://komarev.com/ghpvc/?username=KaninGleb&style=flat-square&color=blue" alt=""/>
 [![Codewars badge](https://www.codewars.com/users/KaninGleb/badges/large)](https://www.codewars.com/users/KaninGleb)
 <img src="https://komarev.com/ghpvc/?username=KaninGleb&style=flat-square&color=blue" alt="Profile Views"/>
 

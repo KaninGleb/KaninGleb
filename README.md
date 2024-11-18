@@ -6,6 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=KaninGleb&abbreviated=true&style=for-the-badge&color=fe428e" alt="Profile Views" style="border-radius: 10px; width: 160px; height: auto;"/>
 </div>
 
+<a> https://github.com/DenverCoderl "><img alt="views" title="Github views" src=" https://freshidea.com/jonah/app/ghpvc/?label=Views#3 "/></a>
 <!-- GitHub stats with streak-->
 ## :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaninGleb&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

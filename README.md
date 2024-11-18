@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=KaninGleb&style=flat-square&color=blue" alt="Profile Views"/>
 
 <div style="border: 2px solid #fe428e; border-radius: 10px; padding: 10px; display: inline-block;">
-    <img src="https://komarev.com/ghpvc/?username=KaninGleb&style=flat-square&color=fe428e" alt="Profile Views" style="border-radius: 10px; width: 150px; height: auto;"/>
+    <img src="https://komarev.com/ghpvc/?username=KaninGleb&style=flat-square&color=fe428e" alt="Profile Views" style="border-radius: 10px; width: 200px; height: auto;"/>
 </div>
 
 

@@ -3,7 +3,7 @@
 
 <!-- Profile views -->
 <div style="border: 5px solid black;">
-    <img src="https://komarev.com/ghpvc/?username=KaninGleb&style=flat-square&color=fe428e" alt="Profile Views" style="border-radius: 10px; width: 160px; height: auto;"/>
+    <img src="https://komarev.com/ghpvc/?username=KaninGleb&style=for-the-badge&color=fe428e" alt="Profile Views" style="border-radius: 10px; width: 160px; height: auto;"/>
 </div>
 
 <!-- GitHub stats with streak-->

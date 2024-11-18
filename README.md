@@ -2,14 +2,11 @@
 [![Codewars badge](https://www.codewars.com/users/KaninGleb/badges/large)](https://www.codewars.com/users/KaninGleb)
 
 <!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=KaninGleb&style=flat-square&color=blue" alt="Profile Views"/>
-
 <div style="border: 5px solid black;">
     <img src="https://komarev.com/ghpvc/?username=KaninGleb&style=flat-square&color=fe428e" alt="Profile Views" style="border-radius: 10px; width: 160px; height: auto;"/>
 </div>
 
-
-
+<!-- GitHub stats with streak-->
 ## :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaninGleb&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 

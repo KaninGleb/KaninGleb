@@ -14,6 +14,12 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KaninGleb&theme=radical" alt="GitHub Streak" /></a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=KaninGleb&theme=radical&type=png)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KaninGleb&theme=radical&type=png" alt="GitHub Streak" /></a>
+
+https://streak-stats.demolab.com?user=KaninGleb&theme=radical&type=json
+
 
 <!-- GitHub stats -->
 ## :zap: My Dev Statistics:

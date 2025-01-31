@@ -14,9 +14,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=KaninGleb&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&v=1" alt="GitHub Streak" style="border-radius: 10px;"/>
 </a>
 
-<p>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=KaninGleb&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&v=1" alt="GitHub Streak" style="border-radius: 10px;"/>&nbsp;
-</p>
+[![GitHub Streak](https://github-readme-streak-stats-mocha-tau.vercel.app?user=KaninGleb&theme=radical&border_radius=10)](https://git.io/streak-stats)
 
 <!-- GitHub stats -->
 ## :zap: My Dev Statistics:

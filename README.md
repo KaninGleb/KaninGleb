@@ -14,6 +14,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=KaninGleb&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="border-radius: 10px;" draggable="false"/>
 </a>
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KaninGleb&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&v=1" alt="GitHub Streak" style="border-radius: 10px;"/>
+
 <!-- GitHub stats -->
 ## :zap: My Dev Statistics:
 <p>

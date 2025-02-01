@@ -1,9 +1,9 @@
 <!-- Codewars badge -->
 [![Codewars badge](https://www.codewars.com/users/KaninGleb/badges/large)](https://www.codewars.com/users/KaninGleb)
 
-<a href="https://www.codewars.com/users/KaninGleb">
+<!-- <a href="https://www.codewars.com/users/KaninGleb">
     <img src="https://www.codewars.com/users/KaninGleb/badges/large" alt="Codewars badge" width="500" height="50">
-</a>
+</a> -->
 
 <!-- Profile views -->
 <div style="border: 5px solid black;">

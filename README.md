@@ -23,12 +23,30 @@
 </p>
 
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+# Фронтенд-разработчик
+
+<div style="display: inline-block; width: 100px; height: 100px;">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="HTML">
+</div>
+<div style="display: inline-block; width: 100px; height: 100px;">
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="CSS">
+</div>
+<div style="display: inline-block; width: 100px; height: 100px;">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="width: 100%; height: 100%; object-fit: cover;" alt="JavaScript">
+</div>
+<div style="display: inline-block; width: 100px; height: 100px;">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" style="width: 100%; height: 100%; object-fit: cover;" alt="React">
+</div>
+<div style="display: inline-block; width: 100px; height: 100px;">
+    <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="Angular">
+</div>
+<div style="display: inline-block; width: 100px; height: 100px;">
+    <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="Sass">
+</div>
+<div style="display: inline-block; width: 100px; height: 100px;">
+    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="TypeScript">
+</div>
+<div style="display: inline-block; width: 100px; height: 100px;">
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="Bootstrap">
+</div>
+

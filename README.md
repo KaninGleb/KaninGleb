@@ -14,6 +14,11 @@
 ## :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats-mocha-tau.vercel.app?user=KaninGleb&theme=radical&border_radius=10)](https://git.io/streak-stats)
 
+<!-- Activity Graph -->
+<div style="border: 5px solid black; border-radius: 10px; padding: 10px;">
+    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaninGleb&bg_color=141321&color=99e5e0&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
 <!-- GitHub stats -->
 ## :zap: My Dev Statistics:
 <p>

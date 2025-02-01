@@ -2,7 +2,7 @@
 [![Codewars badge](https://www.codewars.com/users/KaninGleb/badges/large)](https://www.codewars.com/users/KaninGleb)
 
 <a href="https://www.codewars.com/users/KaninGleb">
-    <img src="https://www.codewars.com/users/KaninGleb/badges/large" alt="Codewars badge" width="150" height="50">
+    <img src="https://www.codewars.com/users/KaninGleb/badges/large" alt="Codewars badge" width="500" height="50">
 </a>
 
 <!-- Profile views -->

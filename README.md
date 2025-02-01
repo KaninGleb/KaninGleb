@@ -21,3 +21,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaninGleb&exclude_repo=KNN-Image-Classification&show_icons=true&border_radius=10&layout=compact&langs_count=10&theme=radical"/>
 <!-- <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaninGleb&exclude_repo=KNN-Image-Classification&show_icons=true&border_radius=10&layout=donut-vertical&langs_count=8&theme=radical" draggable="false"/> -->
 </p>
+
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)

@@ -25,7 +25,7 @@
 
 # Фронтенд-разработчик
 
-<div style="width: 30px; height: 30px;">
+<div>
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" style="width: 100px; height: 100%; object-fit: cover;" alt="HTML">
 </div>
 <!-- <div style="display: inline-block; width: 80px; height: 80px;">

@@ -23,10 +23,10 @@
 </p>
 
 
-#№ :mortar_board: Skills Showcase
+## :mortar_board: Skills Showcase
 
 <div>
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" style="height: 100px; object-fit: cover;" alt="HTML">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" style="height: 30px; object-fit: cover;" alt="HTML">
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" style="height: 100px; object-fit: cover;" alt="CSS">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="height: 100px; object-fit: cover;" alt="JavaScript">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" style="height: 100px; object-fit: cover;" alt="React">

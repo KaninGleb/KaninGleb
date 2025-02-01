@@ -25,28 +25,27 @@
 
 # Фронтенд-разработчик
 
-<div style="display: inline-block; width: 100px; height: 100px;">
+<div style="display: inline-block; width: 80px; height: 80px;">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="HTML">
 </div>
-<div style="display: inline-block; width: 100px; height: 100px;">
+<div style="display: inline-block; width: 80px; height: 80px;">
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="CSS">
 </div>
-<div style="display: inline-block; width: 100px; height: 100px;">
+<div style="display: inline-block; width: 80px; height: 80px;">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="width: 100%; height: 100%; object-fit: cover;" alt="JavaScript">
 </div>
-<div style="display: inline-block; width: 100px; height: 100px;">
+<div style="display: inline-block; width: 80px; height: 80px;">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" style="width: 100%; height: 100%; object-fit: cover;" alt="React">
 </div>
-<div style="display: inline-block; width: 100px; height: 100px;">
+<div style="display: inline-block; width: 80px; height: 80px;">
     <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="Angular">
 </div>
-<div style="display: inline-block; width: 100px; height: 100px;">
+<div style="display: inline-block; width: 80px; height: 80px;">
     <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="Sass">
 </div>
-<div style="display: inline-block; width: 100px; height: 100px;">
+<div style="display: inline-block; width: 80px; height: 80px;">
     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="TypeScript">
 </div>
-<div style="display: inline-block; width: 100px; height: 100px;">
+<div style="display: inline-block; width: 80px; height: 80px;">
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="Bootstrap">
 </div>
-

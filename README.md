@@ -28,7 +28,7 @@
 <div style="width: 30px; height: auto;">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="HTML">
 </div>
-<div style="display: inline-block; width: 80px; height: 80px;">
+<!-- <div style="display: inline-block; width: 80px; height: 80px;">
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="CSS">
 </div>
 <div style="display: inline-block; width: 80px; height: 80px;">
@@ -48,4 +48,4 @@
 </div>
 <div style="display: inline-block; width: 80px; height: 80px;">
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="Bootstrap">
-</div>
+</div> -->

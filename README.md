@@ -14,9 +14,6 @@
 ## :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats-mocha-tau.vercel.app?user=KaninGleb&theme=radical&border_radius=10)](https://git.io/streak-stats)
 
-<!-- Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaninGleb&bg_color=141321&color=99e5e0&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!-- GitHub stats -->
 ## :zap: My Dev Statistics:
 <p>
@@ -24,6 +21,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaninGleb&exclude_repo=KNN-Image-Classification&show_icons=true&border_radius=10&layout=compact&langs_count=10&theme=radical"/>
 <!-- <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaninGleb&exclude_repo=KNN-Image-Classification&show_icons=true&border_radius=10&layout=donut-vertical&langs_count=8&theme=radical" draggable="false"/> -->
 </p>
+
+<!-- Activity Graph -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaninGleb&bg_color=141321&color=99e5e0&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Skills -->
 ## :mortar_board: Skills Showcase:

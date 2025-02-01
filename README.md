@@ -25,7 +25,7 @@
 
 # Фронтенд-разработчик
 
-<div style="display: inline-block; width: 80px; height: auto;">
+<div style="display: inline-block; width: 30px; height: auto;">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" style="width: 100%; height: 100%; object-fit: cover;" alt="HTML">
 </div>
 <div style="display: inline-block; width: 80px; height: 80px;">

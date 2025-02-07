@@ -1,10 +1,6 @@
 <!-- Codewars badge -->
 [![Codewars badge](https://www.codewars.com/users/KaninGleb/badges/large)](https://www.codewars.com/users/KaninGleb)
 
-<!-- <a href="https://www.codewars.com/users/KaninGleb">
-    <img src="https://www.codewars.com/users/KaninGleb/badges/large" alt="Codewars badge" width="500" height="50">
-</a> -->
-
 <!-- Profile views -->
 <div style="border: 5px solid black;">
     <img src="https://komarev.com/ghpvc/?username=KaninGleb&abbreviated=true&style=for-the-badge&color=fe428e" alt="Profile Views" style="border-radius: 10px; width: 160px; height: auto;" draggable="false"/>
@@ -18,9 +14,7 @@
 ## :zap: My Dev Statistics:
 <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaninGleb&show_icons=true&theme=radical&border_radius=10"/>&nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaninGleb&exclude_repo=KNN-Image-Classification&show_icons=true&border_radius=10&layout=compact&langs_count=10&theme=radical"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaninGleb&exclude_repo=KNN-Image-Classification,github-readme-streak-stats&show_icons=true&border_radius=10&layout=compact&langs_count=10&theme=radical"/>
-<!-- <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaninGleb&exclude_repo=KNN-Image-Classification&show_icons=true&border_radius=10&layout=donut-vertical&langs_count=8&theme=radical" draggable="false"/> -->
 </p>
 
 <!-- Activity Graph -->

@@ -21,7 +21,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaninGleb&bg_color=141321&color=99e5e0&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Snake cotribution -->
-![Snake animation](https://github.com/KaninGleb/KaninGleb/blob/output/github-snake-dark.svg)
+<div align='center'>
+    <img width='100%' src='https://github.com/KaninGleb/KaninGleb/blob/output/github-snake-dark.svg' alt='Snake eat my contributions'/>
+</div>
 
 <!-- Skills -->
 ## :mortar_board: Skills Showcase:
@@ -40,7 +42,7 @@
 
 <div align='center'>
     <a href='http://skillicons.dev'>
-        <img src='http://skillicons.dev/icons?i=html,css,js,ts,react,angular,sass,less'/> <br/>
-        <img src='http://skillicons.dev/icons?i=vscode,webstorm,git,github,vite,npm,yarn,pnpm,vite,vue,nodejs,figma,bootstrap'/>
+        <img src='http://skillicons.dev/icons?i=html,css,js,ts,react,angular,sass,less' alt='Languages icons'/>
+        <img src='http://skillicons.dev/icons?i=vscode,webstorm,git,github,vite,npm,yarn,pnpm,vite,vue,nodejs,figma,bootstrap' alt='Software icons'/>
     </a>
 </div>

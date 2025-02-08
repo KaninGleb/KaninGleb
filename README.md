@@ -32,3 +32,9 @@
     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" style="height: 30px; object-fit: cover; filter: brightness(70%);" alt="TypeScript">
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" style="height: 30px; object-fit: cover; filter: brightness(70%);" alt="Bootstrap">
 </div>
+
+<div align='center'>
+    <a href='http://skillicons.dev'>
+        <img src='http://skillicons.dev/icons?i=github'/>
+    </a>
+</div>

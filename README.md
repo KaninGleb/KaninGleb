@@ -22,6 +22,7 @@
 
 <!-- Snake cotribution -->
 ![Snake animation](https://github.com/KaninGleb/KaninGleb/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/KaninGleb/KaninGleb/output/github-contribution-grid-snake.svg)
 
 <!-- Skills -->
 ## :mortar_board: Skills Showcase:

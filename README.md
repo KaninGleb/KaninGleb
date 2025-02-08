@@ -22,6 +22,7 @@
 
 <!-- Skills -->
 ## :mortar_board: Skills Showcase:
+<!--
 <div style="display: flex; gap: 5px;">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" style="height: 30px; object-fit: cover; filter: brightness(70%);" alt="HTML">
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" style="height: 30px; object-fit: cover; filter: brightness(70%);" alt="CSS">
@@ -32,6 +33,7 @@
     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" style="height: 30px; object-fit: cover; filter: brightness(70%);" alt="TypeScript">
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" style="height: 30px; object-fit: cover; filter: brightness(70%);" alt="Bootstrap">
 </div>
+-->
 
 <div align='center'>
     <a href='http://skillicons.dev'>

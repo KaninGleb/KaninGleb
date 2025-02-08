@@ -21,7 +21,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaninGleb&bg_color=141321&color=99e5e0&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Snake cotribution -->
-![Snake animation](https://github.com/KaninGleb/KaninGleb/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KaninGleb/KaninGleb/blob/output/github-contribution-grid-snake.svg) <br/>
 ![Snake animation](https://raw.githubusercontent.com/KaninGleb/KaninGleb/output/github-contribution-grid-snake.svg)
 
 <!-- Skills -->

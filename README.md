@@ -27,6 +27,13 @@
 
 <!-- Skills -->
 ## :mortar_board: Skills Showcase:
+<div align='center'>
+    <a href='http://skillicons.dev'>
+        <img src='http://skillicons.dev/icons?i=html,css,js,ts,react,angular,sass,less' alt='Languages icons'/>
+        <img src='http://skillicons.dev/icons?i=vscode,webstorm,git,github,vite,npm,yarn,pnpm,vite,vue,nodejs,figma,bootstrap' alt='Software icons'/>
+    </a>
+</div>
+
 <!--
 <div style="display: flex; gap: 5px;">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" style="height: 30px; object-fit: cover; filter: brightness(70%);" alt="HTML">
@@ -39,10 +46,3 @@
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" style="height: 30px; object-fit: cover; filter: brightness(70%);" alt="Bootstrap">
 </div>
 -->
-
-<div align='center'>
-    <a href='http://skillicons.dev'>
-        <img src='http://skillicons.dev/icons?i=html,css,js,ts,react,angular,sass,less' alt='Languages icons'/>
-        <img src='http://skillicons.dev/icons?i=vscode,webstorm,git,github,vite,npm,yarn,pnpm,vite,vue,nodejs,figma,bootstrap' alt='Software icons'/>
-    </a>
-</div>

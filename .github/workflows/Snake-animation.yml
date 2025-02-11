@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   # Schedule the workflow to run daily at midnight UTC
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "*/5 * * * *"
 
   # Allow manual triggering of the workflow
   workflow_dispatch:

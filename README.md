@@ -34,7 +34,6 @@
     </a>
 </div>
 
-
 <!--
 <div style="display: flex; gap: 5px;">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" style="height: 30px; object-fit: cover; filter: brightness(70%);" alt="HTML">

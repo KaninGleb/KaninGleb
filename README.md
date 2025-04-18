@@ -46,3 +46,9 @@
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" style="height: 30px; object-fit: cover; filter: brightness(70%);" alt="Bootstrap">
 </div>
 -->
+
+<!--
+<a href='https://vk.com/dai_deneg_pliz' style="stroke: red;">
+    <img src='https://github.com/KaninGleb/Native-JS-video-materials-practice/blob/main/src/logo.svg' style="width: 80px; height: auto;"/>
+</a>
+-->

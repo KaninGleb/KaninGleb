@@ -1,14 +1,17 @@
 <!-- Codewars badge -->
 [![Codewars badge](https://www.codewars.com/users/KaninGleb/badges/large)](https://www.codewars.com/users/KaninGleb)
 
+
 <!-- Profile views -->
 <div style="border: 5px solid black;">
     <img src="https://komarev.com/ghpvc/?username=KaninGleb&abbreviated=true&style=for-the-badge&color=fe428e" alt="Profile Views" style="border-radius: 10px; width: 160px; height: auto;" draggable="false"/>
 </div>
 
+
 <!-- GitHub stats with streak-->
 ## :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats-mocha-tau.vercel.app?user=KaninGleb&theme=radical&border_radius=10)](https://git.io/streak-stats)
+
 
 <!-- GitHub stats -->
 ## :zap: My Dev Statistics:
@@ -17,13 +20,16 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaninGleb&exclude_repo=KNN-Image-Classification,Kabzda,github-readme-streak-stats&show_icons=true&border_radius=10&layout=compact&langs_count=10&theme=radical"/>
 </p>
 
+
 <!-- Activity Graph -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaninGleb&bg_color=141321&color=99e5e0&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!-- Snake cotribution -->
 <div align='center'>
     <img width='100%' src='https://github.com/KaninGleb/KaninGleb/blob/output/github-snake-dark.svg' alt='Snake eat my contributions'/>
 </div>
+
 
 <!-- Skills -->
 ## :mortar_board: Skills Showcase:
@@ -33,6 +39,7 @@
         <img src='http://skillicons.dev/icons?i=vscode,webstorm,git,github,stackoverflow,figma,bootstrap,npm,yarn,pnpm,vite,vue,nodejs' alt='Software icons'/>
     </a>
 </div>
+
 
 <!--
 <div style="display: flex; gap: 5px;">
@@ -47,11 +54,13 @@
 </div>
 -->
 
+
 <!--
 <a href='https://vk.com/dai_deneg_pliz' style="stroke: red;">
     <img src='https://github.com/KaninGleb/Native-JS-video-materials-practice/blob/main/src/logo.svg' style="width: 80px; height: auto;"/>
 </a>
 -->
+
 
 <!-- Social links -->
 <!--

@@ -12,6 +12,9 @@
 ## :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats-mocha-tau.vercel.app?user=KaninGleb&theme=radical&border_radius=10)](https://git.io/streak-stats)
 
+<!-- <img height="220em" src="https://github-readme-streak-stats-mocha-tau.vercel.app?user=KaninGleb&theme=radical&border_radius=10"/> -->
+
+
 <!-- GitHub stats -->
 ## :zap: My Dev Statistics:
 <p>

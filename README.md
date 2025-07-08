@@ -19,7 +19,7 @@
 ## :zap: My Dev Statistics:
 <p>
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=KaninGleb&show_icons=true&theme=radical&border_radius=10"/> &nbsp;
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaninGleb&show_icons=true&border_radius=10&layout=compact&langs_count=20&theme=radical&exclude_repo=KNN-Image-Classification,Kabzda,github-readme-streak-stats"/>
+    <img style="width: 345px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaninGleb&show_icons=true&border_radius=10&layout=compact&langs_count=20&theme=radical&exclude_repo=KNN-Image-Classification,Kabzda,github-readme-streak-stats"/>
     <!-- &hide=SCSS -->
 </p>
 

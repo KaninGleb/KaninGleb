@@ -19,7 +19,7 @@
 ## :zap: My Dev Statistics:
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=KaninGleb&show_icons=true&theme=radical&border_radius=10&show=reviews&card_width=450"/> &nbsp;
-    <img height='220em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaninGleb&show_icons=true&border_radius=10&layout=compact&langs_count=20&theme=radical&exclude_repo=KNN-Image-Classification,Kabzda,github-readme-streak-stats&card_width=350"/>
+    <img height='220em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaninGleb&show_icons=true&border_radius=10&layout=compact&langs_count=20&theme=radical&exclude_repo=KNN-Image-Classification,Kabzda,github-readme-streak-stats&card_width=340"/>
     <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaninGleb&repo=Super-portfolio"/> -->
     <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KaninGleb"/> -->
     <!-- height="190em" --> 

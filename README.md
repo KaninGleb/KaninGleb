@@ -18,10 +18,11 @@
 <!-- GitHub stats -->
 ## :zap: My Dev Statistics:
 <div>
-    <img src="https://github-readme-streak-stats-t14x.vercel.app?username=KaninGleb&show_icons=true&theme=radical&border_radius=10&card_width=440"/> &nbsp;
-    <img height='220em' src="https://github-readme-stats-lemon-omega-42.vercel.app/api/top-langs/?username=KaninGleb&show_icons=true&border_radius=10&layout=compact&langs_count=20&theme=radical&exclude_repo=KNN-Image-Classification,Kabzda,github-readme-streak-stats&card_width=340"/> 
-    <!-- <img height='220em' src="https://github-readme-streak-stats-mocha-tau.vercel.app/api/top-langs/?username=KaninGleb&show_icons=true&border_radius=10&layout=compact&langs_count=20&theme=radical&exclude_repo=KNN-Image-Classification,Kabzda,github-readme-streak-stats&card_width=340"/> -->
-    <!-- Old version -->
+    <!-- Main GitHub Stats Card -->
+    <img src="https://github-readme-stats-lemon-omega-42.vercel.app/api?username=KaninGleb&show_icons=true&theme=radical&border_radius=10&show=reviews&card_width=440" alt="Gleb Kanin's GitHub Stats"/>&nbsp;
+    <!-- Top Languages Card -->
+    <img height="220em" src="https://github-readme-stats-lemon-omega-42.vercel.app/api/top-langs/?username=KaninGleb&show_icons=true&border_radius=10&layout=compact&langs_count=8&theme=radical&exclude_repo=KNN-Image-Classification,Kabzda,github-readme-streak-stats&card_width=340" alt="Gleb Kanin's Top Languages"/>
+    <!------------- Old version ------------------->
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=KaninGleb&show_icons=true&theme=radical&border_radius=10&show=reviews&card_width=440"/> &nbsp; -->
     <!-- <img height='220em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaninGleb&show_icons=true&border_radius=10&layout=compact&langs_count=20&theme=radical&exclude_repo=KNN-Image-Classification,Kabzda,github-readme-streak-stats&card_width=340"/> -->
     <!--------------- Usefull --------------------->

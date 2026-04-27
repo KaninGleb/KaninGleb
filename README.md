@@ -44,13 +44,29 @@
 
 <!-- Skills -->
 ## :mortar_board: Skills Showcase:
+<!--
 <div align='center'>
     <a href='http://skillicons.dev'>
         <img src='http://skillicons.dev/icons?i=html,css,js,ts,react,angular,styledcomponents,sass,less,d3' alt='Languages icons'/>
         <img src='http://skillicons.dev/icons?i=vscode,webstorm,git,github,stackoverflow,figma,bootstrap,npm,yarn,pnpm,vite,vue,nodejs' alt='Software icons'/>
     </a>
 </div>
+-->
 
+<div align='center'>
+    <a href='http://skillicons.dev'>
+        <!-- Languages -->
+        <img src='http://skillicons.dev/icons?i=html,css,js,ts,py' alt='Languages'/>
+        <!-- Frontend Frameworks & UI -->
+        <img src='http://skillicons.dev/icons?i=react,angular,styledcomponents,sass,less,bootstrap,d3' alt='Frontend'/>
+        <!-- Backend & Databases -->
+        <img src='http://skillicons.dev/icons?i=postgres' alt='Backend & DB'/>
+        <!-- DevOps & Tools -->
+        <img src='http://skillicons.dev/icons?i=docker,bash,git,github,vscode,webstorm,pycharm' alt='Tools'/>
+        <!-- Package Managers & Other -->
+        <img src='http://skillicons.dev/icons?i=npm,yarn,pnpm,vite,nodejs,figma,stackoverflow' alt='Other'/>
+    </a>
+</div>
 
 <!--
 <div style="display: flex; gap: 5px;">

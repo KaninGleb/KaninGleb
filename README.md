@@ -33,7 +33,7 @@
 
 
 <!-- Activity Graph -->
-[![Gleb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaninGleb&bg_color=141321&color=99e5e0&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![KaninGleb's GitHub activity graph](https://github-act-graph.rodriaum.com/graph?username=KaninGleb&days=31&theme=radical&type=gradient&area=false&grid=true&hide_title=false&hide_border=true&height=420&radius=0)](https://github.com/KaninGleb)
 
 
 <!-- Snake cotribution -->
